@@ -4,16 +4,16 @@
   "version": "1.0",
   "description": "Add trigger warnings to online articles",
 
+  "action": {
+    "default_popup": "trigger.html",
+    "default_icon": "turtle_extension.png"
+  },
+  
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",
     "48": "images/icon-48.png",
     "128": "images/icon-128.png"
-  },
-  
-  "action": {
-    "default_popup": "trigger.html",
-    "default_icon": "turtle_extension.png"
   },
 
   "content_scripts": [
