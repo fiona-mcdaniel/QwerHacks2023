@@ -5,7 +5,7 @@
   "description": "Add trigger warnings to online articles",
 
   "action": {
-    "default_popup": "trigger.html",
+    "default_popup": "scripts/trigger.html",
     "default_icon": "images/turtle_extension.png"
   },
   
