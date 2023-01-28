@@ -13,6 +13,7 @@
   
   "action": {
     "default_icon": "turtle_extension.png"
+  },
 
   "content_scripts": [
     {
