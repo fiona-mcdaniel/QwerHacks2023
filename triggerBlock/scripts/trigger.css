@@ -81,7 +81,7 @@ nav{
 }
 */
 
-<!DOCTYPE html>
+/* <!DOCTYPE html>
 <html>
 <head>
 <style>
@@ -110,4 +110,18 @@ span {
 
 <p>Set a <span>background color</span> for only a part of a text.</p>
 
-</body>
+</body> */
+
+body
+ {
+  font-family:sans-serif;
+  background: #b1bf9f;
+  min-height: 100vh;
+}
+.center,.content
+{
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
