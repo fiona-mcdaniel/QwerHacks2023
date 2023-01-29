@@ -1,5 +1,0 @@
-test
-words
-are
-very
-cool
