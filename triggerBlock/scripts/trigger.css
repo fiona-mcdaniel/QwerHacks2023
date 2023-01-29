@@ -1,5 +1,5 @@
-@charset "utf-8";
-/* CSS Document */
+/* @charset "utf-8";
+ CSS Document 
 body{
 	margin:0px;
 	padding:0px;
@@ -79,3 +79,35 @@ nav{
 
 
 }
+*/
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: #fefbd8;
+}
+
+h1 {
+  background-color: #80ced6;
+}
+
+div {
+  background-color: #d5f4e6;
+}
+
+span {
+  background-color: #f18973;
+}
+</style>
+</head>
+<body>
+
+<h1>Background Color</h1>
+
+<div>Set a background color for a div element.</div>
+
+<p>Set a <span>background color</span> for only a part of a text.</p>
+
+</body>
